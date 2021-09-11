@@ -1,0 +1,4 @@
+models\Category.class
+models\PetModel.class
+models\PetTags.class
+configProviders\ConfigFileReader.class
